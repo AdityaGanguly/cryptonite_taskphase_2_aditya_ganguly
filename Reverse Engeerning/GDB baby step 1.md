@@ -55,4 +55,5 @@ End of assembler dump.
 ```
 Now we know that the eas register is 0x86342, and converting it do decimal we get : 549698.
 
-So the flag is picoCTF{549698}
+### Flag:
+>picoCTF{549698}
